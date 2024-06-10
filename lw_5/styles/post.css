@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    width: 1440px;
+    height: 2689px;   
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    margin: 17px 250px 0px 0px;
+    width: 1440px;
+    height: 74px;
+
+}
+
+.header-line {
+    display: flex;
+    align-items: center;
+    margin-top: 17px;
+    padding-left: 250px;
+}
+
+.nav {
+    text-align: center;
+    width: 376px;
+    height: 40px;
+    margin-left: 560px;
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    font-family: "Lora", serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #2f2f2f;
+    font-family: "Oxygen", serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    text-align: center;
+    margin-right: 41px;
+}
+    
+a {
+    text-decoration: none;
+}
+.header-line a {
+    color: #2f2f2f;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.heading {
+    margin: 169px 0 0 250px;
+    width: 940px;
+    height: 159px;
+}
+
+.heading-main {   
+    width: 498px;
+    height: 51px;
+    font-family: "Lora", serif;
+    font-weight: 400;
+    font-size: 50px;
+    margin-top: -7px;
+    margin-left: 280px;
+
+}
+
+.heading-small {
+    width: 504px;
+    height: 20px;
+    font-family: "Oxygen", serif;
+    font-weight: 400;
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 282px;
+}
+
+.paragraph {
+    margin: 140px 240px 0 240px;
+    width: 960px;
+    height: 1431px;
+    font-family: "Oxygen", serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.lights {
+    margin: 38px 0 0 0;
+    width: 1440px;
+    height: 534px;
+}
+
+.footer-container {
+    width: 1440px;
+    height: 89px;
+}
+
+.footer-line {
+    display: flex;
+    align-items: center;
+    margin-top: 28px;
+    height: 50px;
+    width: 960px;
+    background-image: url(../images/09.png);
+    background-position: 0;
+    padding: 27.5px 240px; 
+
+}
+
+.footer-nav {
+    text-align: center;
+    width: 640px;
+    height: 32px;
+    margin-left: 320px;
+    display: flex;
+    align-items: center;
+}
+
+.footer-nav-item {
+    text-decoration: none;
+    font-family: "Oxygen", serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: right;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.footer-logo {
+    font-family: "Lora", serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.footer-line a {
+    color: #ffffff;
+}
